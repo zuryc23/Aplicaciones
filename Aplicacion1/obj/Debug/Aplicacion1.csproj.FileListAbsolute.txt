@@ -1,0 +1,2 @@
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE III\Programación\Matrices\Aplicacion1\obj\Debug\Aplicacion1.csprojAssemblyReference.cache
+C:\Users\Armando Rios\OneDrive - Colegio San José de la Encarnación\CICLO 2021\BIMESTRE III\Programación\Matrices\Aplicacion1\obj\Debug\Aplicacion1.csproj.CoreCompileInputs.cache
